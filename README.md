@@ -3,7 +3,7 @@
 - 🔭 Im currently learning tensorflow lite.
 - 👯 Open to collaborating on python / android projects.
 - 💬 Always up for a chit chat on cool things you find on the internet. 
-- My socials are listed above, and my DMs are open.
+- DMs are open.
 - 📫 Reach me via mail [here](mailto:me@sub-zero.tech?subject=Hey%20there,%20I%20saw%20you%20on%20Github&body=Hi%20Abhishek,%20I'd%20like%20to%20get%20in%20touch.%20I%20was%20wondering...)
 - 😄 He/Him
 <p align="left">
