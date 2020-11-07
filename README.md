@@ -6,7 +6,7 @@
 - DMs are open.
 - 📫 Reach me via mail [here](mailto:me@sub-zero.tech?subject=Hey%20there,%20I%20saw%20you%20on%20Github&body=Hi%20Abhishek,%20I'd%20like%20to%20get%20in%20touch.%20I%20was%20wondering...)
 - 😄 He/Him
-- Currently reading [A Breif History of Humankind: Sapiens](https://www.amazon.in/Sapiens-Humankind-Yuval-Noah-Harari/dp/0099590085) by Yuval Noah Harari
+- Currently reading [Start with Why](https://www.amazon.in/Start-Why-Leaders-Inspire-Everyone/dp/1591846447) by Simon Sinek
 - Stumbled here by accident? [Entropy](https://www.notion.so/abhisheks2099/Entropy-c9218f031ad449639d0107697ed3d914) is a quick getaway. It's a collection of cool articles I've found on the web (Updated monthly) 
  
 ---
