@@ -1,6 +1,6 @@
 ![About Me](https://dev-to-uploads.s3.amazonaws.com/i/0qzms0ed41stshsmkfbk.png)
 ### I develop android apps. 
-- 🔭 I'm currently learning Elixir.
+- 🔭 I'm currently learning Go.
 - 👯 Open to collaborating on python / android projects.
 - 💬 Always up for a chit chat on cool things you find on the internet. 
 - DMs are open.
