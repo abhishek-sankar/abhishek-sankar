@@ -6,10 +6,11 @@
 - DMs are open.
 - 📫 Reach me via mail [here](mailto:abhishek.sankar.in?subject=Hey%20there,%20I%20saw%20you%20on%20Github&body=Hi%20Abhishek,%20I'd%20like%20to%20get%20in%20touch.%20I%20was%20wondering...)
 - 😄 He/Him
-- Currently reading [The Selfish Gene](https://www.amazon.com/Selfish-Gene-Anniversary-Landmark-Science-ebook/dp/B01GI5F2FS) by Richard Dawkins
+- - Currently reading [How Innovation Works](https://www.amazon.sg/How-Innovation-Works-Flourishes-Freedom/dp/0062916599/ref=sr_1_1?adgrpid=96059465736&dchild=1&hvadid=419840098037&hvdev=c&hvlocphy=2702&hvnetw=g&hvqmt=b&hvrand=2712663246406612264&hvtargid=kwd-10791731&hydadcr=5093_52130&keywords=matt+ridley&qid=1618132571&sr=8-1) by Matt Ridley
+<!-- Currently reading [The Selfish Gene](https://www.amazon.com/Selfish-Gene-Anniversary-Landmark-Science-ebook/dp/B01GI5F2FS) by Richard Dawkins-->
 <!-- Currently reading [Never Split the Difference](https://www.amazon.in/Never-Split-Difference-Negotiating-Depended-ebook/dp/B014DUR7L2) by Chris Voss-->
 <!--Currently reading [Start with Why](https://www.amazon.in/Start-Why-Leaders-Inspire-Everyone/dp/1591846447) by Simon Sinek-->
-- Stumbled here by accident? [Entropy](https://www.notion.so/abhisheks2099/Entropy-c9218f031ad449639d0107697ed3d914) is a quick getaway. It's a collection of cool articles I've found on the web :) 
+- Here's something thats definitely not a rabbithole. [Entropy](https://www.notion.so/abhisheks2099/Entropy-c9218f031ad449639d0107697ed3d914). It's a collection of cool articles I've found on the web :) 
  
 ---
 <p align="left">
