@@ -20,10 +20,10 @@
 <a href="https://www.hackerrank.com/nullpointerx00" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="Abhishek" height="30px" width="30" />
 </a>  
-<a href="https://twitter.com/nullpointxr" target="blank">
+<a href="https://twitter.com/_abhisheksankar" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Abhishek" height="30px" width="30" />
 </a>
-<a href="https://instagram.com/nullpointxr" target="blank">
+<a href="https://instagram.com/_abhisheksankar" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Abhishek" height="30px" width="30" />
 </a>
 </p>
