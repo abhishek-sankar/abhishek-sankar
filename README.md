@@ -1,18 +1,14 @@
-![About Me](https://dev-to-uploads.s3.amazonaws.com/i/0qzms0ed41stshsmkfbk.png)
-### I develop android apps. 
-- 🔭 I'm currently learning Go.
-- 👯 Open to collaborating on python / android projects.
-- 💬 Always up for a chit chat on cool things you find on the internet. 
-- DMs are open.
-- 📫 Reach me via mail [here](mailto:abhishek.sankar.in?subject=Hey%20there,%20I%20saw%20you%20on%20Github&body=Hi%20Abhishek,%20I'd%20like%20to%20get%20in%20touch.%20I%20was%20wondering...)
-- 😄 He/Him 
-- Currently reading [The hard thing about hard things](https://www.amazon.in/Hard-Thing-about-Building-Business/dp/0062273205) by Ben Horowitz
-<!-- Currently reading [How Innovation Works](https://www.amazon.sg/How-Innovation-Works-Flourishes-Freedom/dp/0062916599/) by Matt Ridley -->
-<!-- Currently reading [The Selfish Gene](https://www.amazon.com/Selfish-Gene-Anniversary-Landmark-Science-ebook/dp/B01GI5F2FS) by Richard Dawkins -->
-<!-- Currently reading [Never Split the Difference](https://www.amazon.in/Never-Split-Difference-Negotiating-Depended-ebook/dp/B014DUR7L2) by Chris Voss -->
-<!-- Currently reading [Start with Why](https://www.amazon.in/Start-Why-Leaders-Inspire-Everyone/dp/1591846447) by Simon Sinek -->
-- Here's something thats definitely not a rabbithole. [Entropy](https://www.notion.so/abhisheks2099/Entropy-c9218f031ad449639d0107697ed3d914). It's a collection of cool articles I've found on the web :) 
- 
+I'm Abhishek Sankar, currently pursuing my MS in Artificial Intelligence and Innovation at [Carnegie Mellon University](https://www.cmu.edu/).
+I previously worked a software engineer at [Providence](https://www.linkedin.com/company/providence-india/), where I got to work on interesting problems in healthcare.
+
+I'm passionate about building products that solve real-world problems. Small ones and the not so small ones. I've been a part of a few hackathons and have won a few of them.
+
+I'm currently working on Sebastian Raschka's book [Build a Large Language Model](https://www.amazon.com/Build-Large-Language-Model-Scratch/dp/1633437167), where I'm learning about the internals of GPT-2 and GPT-3. I'm also working on a few side projects that I hope to share soon.
+
+Something really cool that I'm working on is a an app to make the internet more accessible, leveraging the computer use api by anthropic, along with the gpt-4o voice model. I think these leaps will go a long way toward enabling more and more people to access and interact with more of the internet. Hit me up if you'd be interested in something like this!
+
+I keep an [open list](https://abhisheksankar.com/reading-list.md) of what I read (well, at least after the pandemic began). If you have recommendations, shoot me a DM :\)
+
 ---
 <p align="left">
 <a href="https://linkedin.com/in/abhishek-sankar-in" target="blank">
