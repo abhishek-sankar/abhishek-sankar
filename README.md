@@ -7,7 +7,7 @@ I'm currently working on Sebastian Raschka's book [Build a Large Language Model]
 
 Something really cool that I'm working on is a an app to make the internet more accessible, leveraging the computer use api by anthropic, along with the gpt-4o voice model. I think these leaps will go a long way toward enabling more and more people to access and interact with more of the internet. Hit me up if you'd be interested in something like this!
 
-I keep an [open list](https://abhisheksankar.com/reading-list.md) of what I read (well, at least after the pandemic began). If you have recommendations, shoot me a DM :\)
+I keep an [open list](https://abhisheksankar.com/reading-list/) of what I read (well, at least after the pandemic began). If you have recommendations, shoot me a DM :\)
 
 ---
 <p align="left">
