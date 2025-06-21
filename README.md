@@ -1,4 +1,4 @@
-I'm Abhishek Sankar, currently pursuing my MS in Artificial Intelligence and Innovation at [Carnegie Mellon University](https://www.cmu.edu/).
+I'm Abhishek Sankar, currently pursuing my MS in Artificial Intelligence and Innovation at [Carnegie Mellon University](https://msaii.cs.cmu.edu/directory/students/current/s).
 I previously worked a software engineer at [Providence Health](https://www.linkedin.com/company/providence-india/), where I got to work on behavioural health and async care problems.
 
 I'm passionate about building products that solve real-world problems. Small ones and the not so small ones. I've been a part of a few hackathons and have won a few of them.
